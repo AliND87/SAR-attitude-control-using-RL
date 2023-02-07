@@ -24,7 +24,7 @@ starting from any initial angles and angular velocity.
 
  <figure>
  <center>
- <img src='https://i.postimg.cc/FRc6kwBR/k1-10-PRY.jpg' width="300" 
+ <img src='https://i.postimg.cc/FRc6kwBR/k1-10-PRY.jpg' width="500" 
       height="200"/>
  <figcaption>Euler angles Roll,Pitch,Yaw with references: 60◦,30◦ 15◦</figcaption>
  </center>
