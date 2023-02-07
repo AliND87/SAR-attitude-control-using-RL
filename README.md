@@ -14,9 +14,9 @@ starting from any initial angles and angular velocity.
  
  <figure>
  <center>
- <img src='https://i.postimg.cc/N0sSVNFC/simulink-overall.jpg' width="600" 
+ <img src='https://i.postimg.cc/N0sSVNFC/simulink-overall.jpg' width="800" 
       height="600"/>
- <figcaption>Training loss</figcaption>
+ <figcaption>implemented Simulink scheme</figcaption>
  </center>
  </figure>
  
