@@ -1,5 +1,5 @@
 # SAR-attitude-control-using-RL
-In this study we focus on a specific type of imaging satellites ”SAR” which illuminate earth surface by
+In this project a specific type of imaging satellites ”SAR” is considered which illuminate earth surface by
 sending and receiving waves. Flexibility must be addressed in modeling phase due to the antenna and
 flexible appendages.Using an improved version of backstepping controller lets the satellite converge
 to one of two equilibria depending on initial values.This controller not only stabilizes the system
@@ -20,4 +20,13 @@ starting from any initial angles and angular velocity.
  </center>
  </figure>
  
+ 
 
+ <figure>
+ <center>
+ <img src=' https://i.postimg.cc/FRc6kwBR/k1-10-PRY.jpg
+' width="800" 
+      height="600"/>
+ <figcaption>Euler angles Roll,Pitch,Yaw with references: 60◦,30◦ 15◦</figcaption>
+ </center>
+ </figure>
