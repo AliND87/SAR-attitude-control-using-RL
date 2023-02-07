@@ -20,7 +20,7 @@ starting from any initial angles and angular velocity.
  </center>
  </figure>
  
- 
+ <hr/>
 
  <figure>
  <center>
