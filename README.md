@@ -9,25 +9,13 @@ controlled system which is able to track desired Euler angles(or equivalently â€
 starting from any initial angles and angular velocity.
 
 
-<hr/>
-
-## My Contribution
-
-
-<hr/>
-
-## Results 
-the rseults are reported in the notebook "NN_1950716.ipynb" as well as github repository https://github.com/AliND87/1950716_NN_Project/tree/main/experiments  
-
-<hr/>
-
 
 
  
  <figure>
  <center>
- <img src='https://i.postimg.cc/N0sSVNFC/simulink-overall.jpg' width="250" 
-      height="250"/>
+ <img src='https://i.postimg.cc/N0sSVNFC/simulink-overall.jpg' width="600" 
+      height="600"/>
  <figcaption>Training loss</figcaption>
  </center>
  </figure>
